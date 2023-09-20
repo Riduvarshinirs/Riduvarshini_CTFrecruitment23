@@ -2,7 +2,7 @@
 - we are taking number of elements in array as input
 - input elements of array
 - print sorted array
-- https://github.com/Riduvarshinirs/Riduvarshini_CTFrecruitment23/blob/main/screenshots/b8b4aaf1-6363-4af7-87f6-a3c91980365f.jpg
+- https://github.com/Riduvarshinirs/Riduvarshini_CTFrecruitment23/blob/main/screenshots/ef3f324a-47dc-4933-a0df-d36161ec16ed.jpg
 -#include <stdio.h>
 -int main()
 -{
